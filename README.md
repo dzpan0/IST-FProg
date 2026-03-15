@@ -12,4 +12,4 @@ At this part we had to develop the game in itself: be able to actually play it i
 
 # Technologies
 
-- [Python 3.11](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/)
